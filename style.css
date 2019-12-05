@@ -41,7 +41,7 @@ p {
   min-height: 100vh;
   padding: 8px 50px;
   background-color: #02f;
-  background-image: url("bg.svg");
+  background-image: url("blue.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -53,7 +53,7 @@ p {
   animation-duration: 1s;
   animation-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
   text-transform: uppercase;
-  color: #fff;
+  color: #000;
   align-self: center;
 }
 
